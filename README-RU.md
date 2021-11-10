@@ -15,4 +15,4 @@
 
 ## Как это работает
 
-Расширение просто добавляет/убирает CSS-свойство `filter: invert(90%)` к тегу `<html>` на странице. [Читать про это свойство](https://developer.mozilla.org/docs/Web/CSS/filter).
+Расширение просто добавляет/убирает CSS-свойство `filter: invert(90%)` к тегу `<html>` на странице. [Читать про это свойство](https://developer.mozilla.org/ru/docs/Web/CSS/filter#invert_инвертирование).

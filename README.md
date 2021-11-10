@@ -15,4 +15,4 @@
 
 ## How it works
 
-Extension simple adds/removes CSS property `filter: invert(90%)` to page's `<html>` tag. [Read about this property](https://developer.mozilla.org/docs/Web/CSS/filter).
+Extension simple adds/removes CSS property `filter: invert(90%)` to page's `<html>` tag. [Read about this property](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#invert).
