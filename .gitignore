@@ -1,0 +1,5 @@
+# PHPStorm
+.idea
+
+# Sensetive sertificate file for extension updates
+**/*.pem

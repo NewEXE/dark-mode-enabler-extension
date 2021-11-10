@@ -1,0 +1,22 @@
+{
+  "name": "Dark mode enabler",
+  "action": {},
+  "manifest_version": 3,
+  "version": "1.0",
+  "description": "Turns the page into dark mode when you click the extension's icon or by Ctrl+Shift+D",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+D",
+        "mac": "Command+Shift+D"
+      }
+    }
+  }
+}
