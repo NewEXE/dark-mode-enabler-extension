@@ -2,7 +2,7 @@
 [Инструкции на русском](/README-RU.md)
 > Browser extension that turns the page into dark mode when you click the extension's icon or by Ctrl+Shift+D.
 > Chrome, Opera and any modern Chromium-based browser are supported.
-> Very simple and lightweight extensions, without any adware, spyware or user data collection.
+> Very simple and lightweight extension, without any adware, spyware or user data collection.
 
 ## Installation and usage
 
