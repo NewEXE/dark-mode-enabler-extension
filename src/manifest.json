@@ -2,7 +2,7 @@
   "name": "Dark mode enabler",
   "action": {},
   "manifest_version": 3,
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Turns the page into dark mode when you click the extension's icon or by Ctrl+Shift+D",
   "permissions": [
     "activeTab",
